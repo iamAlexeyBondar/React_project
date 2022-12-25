@@ -1,0 +1,63 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "myId": 1,
+      "title": "12 шт",
+      "description": "Цветные карандаши 12 шт",
+      "price": 147,
+      "img": "/img/1.png"
+    },
+    {
+      "id": 2,
+      "myId": 2,
+      "title": "24 шт",
+      "description": "Цветные карандаши 24 шт",
+      "price": 294,
+      "img": "/img/1.png"
+    },
+    {
+      "id": 3,
+      "myId": 3,
+      "title": "36 шт",
+      "description": "Цветные карандаши 36 шт",
+      "price": 441,
+      "img": "/img/1.png"
+    },
+    {
+      "id": 4,
+      "myId": 4,
+      "title": "48 шт",
+      "description": "Цветные карандаши 48 шт",
+      "price": 558,
+      "img": "/img/1.png"
+    },
+    {
+      "id": 5,
+      "myId": 5,
+      "title": "60 шт",
+      "description": "Цветные карандаши 60 шт",
+      "price": 735,
+      "img": "/img/1.png"
+    },
+    {
+      "id": 6,
+      "myId": 6,
+      "title": "72 шт",
+      "description": "Цветные карандаши 72 шт",
+      "price": 882,
+      "img": "/img/1.png"
+    }
+  ],
+  "cart": [],
+  "favorites": [
+    {
+      "id": 1,
+      "myId": 1,
+      "title": "12 шт",
+      "description": "Цветные карандаши 12 шт",
+      "price": 147,
+      "img": "/img/1.png"
+    }
+  ]
+}
